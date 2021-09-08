@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is MINJAE YU and i'm a student of KMU-Digipen.
+Currently a freshmen and learning game development programming.
+
 
 <!--
 **minjae-yu/minjae-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
