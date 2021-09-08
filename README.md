@@ -3,7 +3,7 @@ Welcome! My name is MINJAE YU and i'm a student of KMU-Digipen.
 
 Currently a freshmen and learning game development programming.
 
-#### Languages
+#### Languages thatt i can use
 >> Korean
 >> 
 >> Japanese
