@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is MINJAE YU and i'm a student of KMU-Digipen.\n
+My name is MINJAE YU and i'm a student of KMU-Digipen.
+
 Currently a freshmen and learning game development programming.
 
 
