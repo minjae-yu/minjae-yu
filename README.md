@@ -5,7 +5,9 @@ Currently a freshmen and learning game development programming.
 
 #### Languages
 >> Korean
+>> 
 >> Japanese
+>> 
 >> English
 
 
