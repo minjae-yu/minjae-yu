@@ -1,9 +1,16 @@
-### Hi there 👋
-Welcome! My name is MINJAE YU and i'm a student of KMU-Digipen.
+### Languages
+>> C++
+>>
+>> Kotlin
+>>
+>> GLSL
 
-Currently a freshmen and learning game development programming.
+### API
+>> OpenGL
+>>
+>> Vulkan
 
-#### Lingual languages I can use
+#### Lingual Languages
 >> Korean
 >> 
 >> Japanese
